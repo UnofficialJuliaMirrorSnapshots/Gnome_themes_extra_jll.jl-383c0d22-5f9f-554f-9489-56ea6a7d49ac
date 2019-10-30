@@ -1,24 +1,113 @@
 [[Gnome_themes_extra]]
 arch = "x86_64"
-git-tree-sha1 = "dd8d47d8ee691755cb80e867080bfa1575eb9049"
-os = "windows"
-
-    [[Gnome_themes_extra.download]]
-    sha256 = "3fd3ac30ba747a44c4f5afc8117f854c5d487b58b905c2c6c60e0e7afa2fd96d"
-    url = "https://github.com/JuliaBinaryWrappers/Gnome_themes_extra_jll.jl/releases/download/Gnome_themes_extra-v3.28.0+0/Gnome_themes_extra.v3.28.0.x86_64-w64-mingw32.tar.gz"
-[[Gnome_themes_extra]]
-arch = "x86_64"
-git-tree-sha1 = "42e731af46c48a2467ae7fd02eb25b06117b0f56"
+git-tree-sha1 = "8e46c2e4bf3e258e19431bf29da7aefce9c6486e"
 os = "macos"
 
     [[Gnome_themes_extra.download]]
-    sha256 = "6bc3e642479e693e0f01320828609797865c0abe78e8801208f913685efce5c9"
-    url = "https://github.com/JuliaBinaryWrappers/Gnome_themes_extra_jll.jl/releases/download/Gnome_themes_extra-v3.28.0+0/Gnome_themes_extra.v3.28.0.x86_64-apple-darwin14.tar.gz"
+    sha256 = "8f464b9b3fba6a08a8b441e2fb0c7413580cfee0e94d31548dd798e912796185"
+    url = "https://github.com/JuliaBinaryWrappers/Gnome_themes_extra_jll.jl/releases/download/Gnome_themes_extra-v3.28.0+1/Gnome_themes_extra.v3.28.0.x86_64-apple-darwin14.tar.gz"
 [[Gnome_themes_extra]]
 arch = "i686"
-git-tree-sha1 = "cb94ece3c3627af228a481537d47aa7c8d265a4c"
+git-tree-sha1 = "090812dd8687f4b71fbb1b026ee229d2f9ac29e6"
+libc = "glibc"
+os = "linux"
+
+    [[Gnome_themes_extra.download]]
+    sha256 = "dce9795bf7689956cd8cb98f4ed3e958582b46e987a563079f4ea6f1f319d075"
+    url = "https://github.com/JuliaBinaryWrappers/Gnome_themes_extra_jll.jl/releases/download/Gnome_themes_extra-v3.28.0+1/Gnome_themes_extra.v3.28.0.i686-linux-gnu.tar.gz"
+[[Gnome_themes_extra]]
+arch = "x86_64"
+git-tree-sha1 = "a69538a2dd8672cf42053aa114a214c377d0ae9e"
+os = "freebsd"
+
+    [[Gnome_themes_extra.download]]
+    sha256 = "980419799be324ece73d863a82e6c63175074adce95d47beea26813d7be8ef91"
+    url = "https://github.com/JuliaBinaryWrappers/Gnome_themes_extra_jll.jl/releases/download/Gnome_themes_extra-v3.28.0+1/Gnome_themes_extra.v3.28.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Gnome_themes_extra]]
+arch = "powerpc64le"
+git-tree-sha1 = "6d5db674f8ea6402845c82d3787e30e46eb3e166"
+libc = "glibc"
+os = "linux"
+
+    [[Gnome_themes_extra.download]]
+    sha256 = "63a121c42f1d74292aea423f205383108dbaf3dd3cf39d83d7ff90e68917f798"
+    url = "https://github.com/JuliaBinaryWrappers/Gnome_themes_extra_jll.jl/releases/download/Gnome_themes_extra-v3.28.0+1/Gnome_themes_extra.v3.28.0.powerpc64le-linux-gnu.tar.gz"
+[[Gnome_themes_extra]]
+arch = "x86_64"
+git-tree-sha1 = "bf8ceffafd4068308bef0c3116a7f40cc1c8c4a9"
+libc = "musl"
+os = "linux"
+
+    [[Gnome_themes_extra.download]]
+    sha256 = "a75271be713147fc3da95ebeb507255c188018b371648343568ccdc6e77dc4d6"
+    url = "https://github.com/JuliaBinaryWrappers/Gnome_themes_extra_jll.jl/releases/download/Gnome_themes_extra-v3.28.0+1/Gnome_themes_extra.v3.28.0.x86_64-linux-musl.tar.gz"
+[[Gnome_themes_extra]]
+arch = "x86_64"
+git-tree-sha1 = "f4369989935c813ed161b63d80ad79c8adc37cb9"
+libc = "glibc"
+os = "linux"
+
+    [[Gnome_themes_extra.download]]
+    sha256 = "f5806920edaed7ed5d428bf93f6cb0ac05239cda5348e1d4c3b851e25457bb27"
+    url = "https://github.com/JuliaBinaryWrappers/Gnome_themes_extra_jll.jl/releases/download/Gnome_themes_extra-v3.28.0+1/Gnome_themes_extra.v3.28.0.x86_64-linux-gnu.tar.gz"
+[[Gnome_themes_extra]]
+arch = "x86_64"
+git-tree-sha1 = "3025e6f67b9a2f9f12256854d6b1cd901c1ed125"
 os = "windows"
 
     [[Gnome_themes_extra.download]]
-    sha256 = "c149c82954409823b882f788b043241f5f79c82c401f6cdd959c97e8e27cd13a"
-    url = "https://github.com/JuliaBinaryWrappers/Gnome_themes_extra_jll.jl/releases/download/Gnome_themes_extra-v3.28.0+0/Gnome_themes_extra.v3.28.0.i686-w64-mingw32.tar.gz"
+    sha256 = "59ab016d7d65354ffb3048f29f21275f1b7e32980ad511e9855d9fbe94c61722"
+    url = "https://github.com/JuliaBinaryWrappers/Gnome_themes_extra_jll.jl/releases/download/Gnome_themes_extra-v3.28.0+1/Gnome_themes_extra.v3.28.0.x86_64-w64-mingw32.tar.gz"
+[[Gnome_themes_extra]]
+arch = "aarch64"
+git-tree-sha1 = "8e70523f7ddc0190cd3a8ddd50cc5ac9e6422d6d"
+libc = "musl"
+os = "linux"
+
+    [[Gnome_themes_extra.download]]
+    sha256 = "442b17ce6a58290813bb6e4aae645aaefe20c5b22c8d7ccdff8ec4ec9e4067b0"
+    url = "https://github.com/JuliaBinaryWrappers/Gnome_themes_extra_jll.jl/releases/download/Gnome_themes_extra-v3.28.0+1/Gnome_themes_extra.v3.28.0.aarch64-linux-musl.tar.gz"
+[[Gnome_themes_extra]]
+arch = "armv7l"
+git-tree-sha1 = "7085700df2485e66a8d3a8c116d392daaf3d366e"
+libc = "glibc"
+os = "linux"
+
+    [[Gnome_themes_extra.download]]
+    sha256 = "41eb722e3efff71bb93cb2ca5f48b601b288fef33b681b3431c8ae0d8549ee92"
+    url = "https://github.com/JuliaBinaryWrappers/Gnome_themes_extra_jll.jl/releases/download/Gnome_themes_extra-v3.28.0+1/Gnome_themes_extra.v3.28.0.arm-linux-gnueabihf.tar.gz"
+[[Gnome_themes_extra]]
+arch = "i686"
+git-tree-sha1 = "55e6269a4504dd334d91c5ce67560c794d548c6a"
+libc = "musl"
+os = "linux"
+
+    [[Gnome_themes_extra.download]]
+    sha256 = "6f0d86919c45b39db783255b0949a507c1e1df7a862e770453932c16f90384be"
+    url = "https://github.com/JuliaBinaryWrappers/Gnome_themes_extra_jll.jl/releases/download/Gnome_themes_extra-v3.28.0+1/Gnome_themes_extra.v3.28.0.i686-linux-musl.tar.gz"
+[[Gnome_themes_extra]]
+arch = "armv7l"
+git-tree-sha1 = "4d4868b9656ed3c47d7e24fe4734f1af37f0c289"
+libc = "musl"
+os = "linux"
+
+    [[Gnome_themes_extra.download]]
+    sha256 = "dcd9dae1305325bcf09c5608d590633583e52c595873f791868ce838d96a2548"
+    url = "https://github.com/JuliaBinaryWrappers/Gnome_themes_extra_jll.jl/releases/download/Gnome_themes_extra-v3.28.0+1/Gnome_themes_extra.v3.28.0.arm-linux-musleabihf.tar.gz"
+[[Gnome_themes_extra]]
+arch = "aarch64"
+git-tree-sha1 = "658cd35a138b24d927f3cbf34bdcf03aa6d66f4a"
+libc = "glibc"
+os = "linux"
+
+    [[Gnome_themes_extra.download]]
+    sha256 = "ad8cd202a001de18de9020352034e9c3955027d73b7a5f3a8932b69f151ea311"
+    url = "https://github.com/JuliaBinaryWrappers/Gnome_themes_extra_jll.jl/releases/download/Gnome_themes_extra-v3.28.0+1/Gnome_themes_extra.v3.28.0.aarch64-linux-gnu.tar.gz"
+[[Gnome_themes_extra]]
+arch = "i686"
+git-tree-sha1 = "49a121da7ee068b497d119d30daff75b62adacb3"
+os = "windows"
+
+    [[Gnome_themes_extra.download]]
+    sha256 = "6906b3ef447f4f0bd63a37f3ba892f18a21b2685a579957bbd98a4cefbe94b74"
+    url = "https://github.com/JuliaBinaryWrappers/Gnome_themes_extra_jll.jl/releases/download/Gnome_themes_extra-v3.28.0+1/Gnome_themes_extra.v3.28.0.i686-w64-mingw32.tar.gz"
